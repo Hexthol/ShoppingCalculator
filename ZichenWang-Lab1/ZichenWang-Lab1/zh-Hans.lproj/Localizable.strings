@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  ZichenWang-Lab1
+
+  Created by 王梓辰 on 6/17/20.
+  Copyright © 2020 Zichen Wang. All rights reserved.
+*/
+
+"Title" = "我的购物计算器";
+"OP" = "初始价格（¥）";
+"Dt" = "折扣（%）";
+"ST" = "税收（%）";
+"FP" = "最终价格";
+"unit" = "¥";
+"RS" = "重置";
+
+"WPF" = "价格格式错误";
+"NNP" = "价格不为负";
+"WDF" = "折扣格式错误";
+"NND" = "折扣不为负";
+"ED" = "折扣溢出";
+"WTF" = "税收格式错误";
+"NNT" = "税收不为负";
+"ET" = "税收溢出";
